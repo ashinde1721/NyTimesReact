@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details Component renders component 1`] = `
+<div>
+  <div>
+    Page Not Found
+  </div>
+</div>
+`;
